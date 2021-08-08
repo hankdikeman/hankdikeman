@@ -8,7 +8,7 @@ I'm a senior chemical engineering major graduating December 2021 from the Univer
 ### Where I've worked 💼
 I've interned twice at Unilever, first as a process engineer then as a data scientist developing enterprise software. I've also worked as a cryogenics R&D engineering co-op at Chart Industries where I spent a lot of time developing (really cool) wireless embedded systems!<br/><br/>Currently, I work in the [Computational Reactive Flow & Energy Lab](https://crfel.umn.edu) at the University of Minnesota-Twin Cities with Professor Suo Yang, where I work on data-driven methods to accelerate computational physics simulation<br/><br/>If you're interested in any of the above, you can read more at my LinkedIn: [Henry Dikeman](https://www.linkedin.com/in/henrydikeman/) or email me at dikem003@umn.edu
 
-### What I'm Looking For
+### What I'm Looking For 🔭
 1. **Job Opportunities**: full-time roles, somewhere in the data science, machine learning engineering, or data science space
 2. **Collaboration**: have a cool project idea? Feel free to reach out!
 3. **Just To Connect**: I'm always down to talk science/programming!
