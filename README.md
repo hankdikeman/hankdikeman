@@ -23,6 +23,7 @@ I've interned twice at Unilever, first as a process engineer then as a data scie
 - [ ] **Data-driven Reactive Flow Modeling @ CRFEL**: Oops, can't say too much about this yet! (pending publication) This is part of my (continuing) work at CRFEL using machine learning forecasting and dimensionality reduction methodologies to accelerate high-fidelity combustion modeling! You can read more about our group [here](https://crfel.umn.edu)!
 - [ ] **Thirst**: a fun little video game project I'm working on (who's never wondered what it'd be like to be a thirsty cactus?). See the progress [here](https://github.com/hankdikeman/ThirstV1)
 - [ ] **Intelligent Weather Prediction Website**: a machine learning-driven weather prediction system, with a Flask front-end, permitting performant weather forecasting without the overhead of traditional computational weather modeling. See my progress [here](https://github.com/hankdikeman/WeatherPred)!
+- [ ] **Learning a Lot with MIT 18.337!**: Expanding my knowledge with a combined parallel computing and scientific ML course from MIT and Chris Rackaukas! See what I'm doing [here](https://github.com/hankdikeman/MITMath18337) or the course itself [here](https://mitmath.github.io/18337/) (I highly recommend it!)
 <!--
 **hankdikeman/hankdikeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
