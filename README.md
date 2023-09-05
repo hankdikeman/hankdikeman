@@ -10,6 +10,10 @@ I'm originally from the south suburbs of Minneapolis, Minnesota. I did my underg
 - Spring 2021 - Winter 2022: researcher at Computational Reactive Flow & Energy Lab at the UMN. Developed novel data-driven model to predict combustion characteristics in reduced order space. Optimized models for highly-stiff systems
 - February 2022 - present: software engineer on the Virtual Cloud Disaster Recovery (VCDR) product on the filesystems team at VMware
 
+### Interested In...
+1. embedded systems programming
+2. distributed and highly-available systems
+3. machine learning (esp. applied machine learning)
 <!--
 **hankdikeman/hankdikeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
